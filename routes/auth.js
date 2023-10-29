@@ -1,5 +1,5 @@
 const express = require('express');
-// auth 
+
 
 const { signup, login } = require('../controllers/auth.js');
 
